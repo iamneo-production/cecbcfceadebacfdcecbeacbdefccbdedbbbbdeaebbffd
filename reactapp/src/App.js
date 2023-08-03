@@ -1,5 +1,5 @@
 import React from 'react';
-import { getUserIpDetails, getTopThree } from '../functions/destructuring';
+import { getUserIpDetails, getTopThree } from './functions/destructuring';
 
 function App() {
   const studentMarks = [80, 90, 70, 85, 95, 65];
